@@ -1,0 +1,10 @@
+{
+    "name": "johannes/deployer-demo",
+    "authors": [
+        {
+            "name": "johnrbnz",
+            "email": "github@rubenz.at"
+        }
+    ],
+    "require": {}
+}
